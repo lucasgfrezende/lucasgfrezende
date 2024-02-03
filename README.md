@@ -12,7 +12,7 @@ I graduated in Electrical at CEFET and am currently studying Information Systems
 
 ---
 
-## Skills
+## 💻 Skills
 
 - **Languages:** JavaScript, Rubi
 - **Frameworks:** React, Nextjs, Ruby on Rails
